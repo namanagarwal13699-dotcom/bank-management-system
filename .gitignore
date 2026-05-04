@@ -1,4 +1,4 @@
 .env # Don’t upload your secret file
-__pycache__/ # __pycache__/
+__pycache__/ # ignore chache files
 *.pyc # Ignore compiled Python files
 # gitignore works as security guard
